@@ -13,6 +13,8 @@ public class Principal {
 		//Librerias 
 		Scanner lectura = null;
 		
+		
+		
 		String marca,so;
 		float precio;
 		int stock, menuPrinc, subMenu,indice;
